@@ -1,0 +1,1 @@
+This is an online voting system.The database has to be created and this system will count the votes for particular person
